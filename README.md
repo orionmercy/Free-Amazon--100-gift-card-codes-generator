@@ -1,7 +1,7 @@
 
 # CardCruise: Free Gift Card Code Generator
 
-![CardCruise Logo](https://example.com/logo.png) *(Replace with your logo's URL)*
+![CardCruise Logo](https://cardcruise.pages.dev/logo.png) *(Replace with your logo's URL)*
 
 Welcome to **CardCruise**, the ultimate platform to generate free gift card codes for your favorite brands! With **CardCruise**, you can unlock gift cards by completing simple tasks and human verification. Start enjoying gift cards for platforms like Amazon, Google Play, iTunes, and more today!
 
@@ -70,16 +70,6 @@ We welcome contributions from developers and marketers to improve **CardCruise**
 ## 🔗 Connect with Us
 
 - **Website**: [https://cardcruiseland.pages.dev](https://cardcruiseland.pages.dev)
-- **Contact**: info@cardcruise.com *(Replace with your email)*
-- **Social Media**:
-  - Twitter: [@CardCruise](https://twitter.com/CardCruise) *(Replace with your profile)*
-  - Facebook: [CardCruise](https://facebook.com/CardCruise)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. You’re free to use, modify, and distribute it with attribution. See the `LICENSE` file for details.
 
 ---
 

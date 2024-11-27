@@ -1,11 +1,9 @@
 
-# CardCruise: Free Gift Card Code Generator
-
-![CardCruise Logo](https://cardcruise.pages.dev/logo.ico)
+# Free Gift Card Code Generator
 
 Welcome to **CardCruise**, the ultimate platform to generate free gift card codes for your favorite brands! With **CardCruise**, you can unlock gift cards by completing simple tasks and human verification. Start enjoying gift cards for platforms like Amazon, Google Play, iTunes, and more today!
 
-🔗 **Website:** [https://cardcruiseland.pages.dev](https://cardcruiseland.pages.dev)
+🔗 **Website:** [👉CLICK HERE👈](https://cardcruiseland.pages.dev)
 
 ---
 
@@ -32,7 +30,7 @@ Welcome to **CardCruise**, the ultimate platform to generate free gift card code
 
 ## 📖 How It Works
 
-1. Visit our website at [https://cardcruiseland.pages.dev](https://cardcruiseland.pages.dev).
+1. Visit our website at [👉CARDCRUISE👈](https://cardcruiseland.pages.dev).
 2. Choose your desired gift card.
 3. Complete the quick human verification process.
 4. Get your code instantly and redeem it!
@@ -55,24 +53,6 @@ Welcome to **CardCruise**, the ultimate platform to generate free gift card code
 
 ---
 
-## 🚀 How to Contribute
-
-We welcome contributions from developers and marketers to improve **CardCruise**. If you're passionate about making the gift card experience even better, here's how you can help:
-
-1. **Fork this repository**.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Create a Pull Request.
-
----
-
-## 🔗 Connect with Us
-
-- **Website**: [https://cardcruiseland.pages.dev](https://cardcruiseland.pages.dev)
-
----
-
-### Keywords (SEO Boost)
+### Keywords
 
 `free gift card generator`, `gift cards 2024`, `Amazon gift card generator`, `Google Play codes free`, `iTunes gift card generator`, `free Steam codes`, `gift card verification`, `gift cards no survey`, `free Xbox gift cards`, `PSN gift codes generator`, `CardCruise`, `online gift card generator`
